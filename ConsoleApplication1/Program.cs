@@ -17,6 +17,7 @@ namespace ConsoleApplication1
                 Console.WriteLine("2. Odejmowanie");
                 Console.WriteLine("3. Mnozenie");
                 Console.WriteLine("4. Dzielenie");
+                Console.WriteLine("6. Pierwiastek");
                 int menuOption = Convert.ToInt32(Console.ReadLine());
                 
                 if (menuOption==0)
