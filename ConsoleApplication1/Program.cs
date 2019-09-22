@@ -15,6 +15,11 @@ namespace ConsoleApplication1
                 Console.WriteLine("4. Exit");
                 Console.WriteLine("1. Dodawanie");
                 Console.WriteLine("2. Odejmowanie");
+<<<<<<< HEAD
+=======
+                Console.WriteLine("3. Mnozenie");
+                Console.WriteLine("4. Dzielenie");
+>>>>>>> 8f0e7f6... Add div to menu
                 int menuOption = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("3. cosinengo");
                 Console.WriteLine("4. Exit");
